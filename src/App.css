@@ -20,3 +20,15 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+.numberButton{
+    background-color:#184379;
+}
+
+.specialButton{
+    background-color:#225D9E;
+}
+
+.operatorButton{
+    background-color: #237293;
+}
