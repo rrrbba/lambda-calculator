@@ -16,7 +16,7 @@ export const Specials = () => {
        it any props needed by the child component*/}
        {
          specialsState.map((special, index) => (
-          <SpecialButton key = {index} numbers = {special} />
+          <SpecialButton key = {index} specials = {special} />
          ))
        }
     </div>
